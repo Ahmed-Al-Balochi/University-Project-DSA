@@ -1,5 +1,5 @@
 # University-Project-DSA
-Data Structures & Algorithms Subject.
+Terminal Based Program, for Data Structures & Algorithms Subject.
 
 This Project will help bankers keep track of their customers and their date. The program
 
